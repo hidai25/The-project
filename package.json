@@ -1,0 +1,26 @@
+{
+  "name": "the-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "dependencies": {
+    "connect": "^3.6.6",
+    "st": "^1.2.2"
+  },
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hidai25/The-project.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hidai25/The-project/issues"
+  },
+  "homepage": "https://github.com/hidai25/The-project#readme"
+}
